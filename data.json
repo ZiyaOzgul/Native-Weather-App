@@ -1,0 +1,157 @@
+{
+  "cod": "200",
+  "message": 0,
+  "cnt": 5,
+  "list": [
+    {
+      "dt": 1678374000,
+      "main": {
+        "temp": 15.95,
+        "feels_like": 15.38,
+        "temp_min": 15.33,
+        "temp_max": 15.95,
+        "pressure": 1017,
+        "sea_level": 1017,
+        "grnd_level": 1013,
+        "humidity": 68,
+        "temp_kf": 0.62
+      },
+      "weather": [
+        {
+          "id": 800,
+          "main": "Clear",
+          "description": "clear sky",
+          "icon": "01n"
+        }
+      ],
+      "clouds": { "all": 0 },
+      "wind": { "speed": 8.22, "deg": 205, "gust": 12.17 },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": { "pod": "n" },
+      "dt_txt": "2023-03-09 15:00:00"
+    },
+    {
+      "dt": 1678384800,
+      "main": {
+        "temp": 15.58,
+        "feels_like": 14.94,
+        "temp_min": 14.85,
+        "temp_max": 15.58,
+        "pressure": 1017,
+        "sea_level": 1017,
+        "grnd_level": 1012,
+        "humidity": 67,
+        "temp_kf": 0.73
+      },
+      "weather": [
+        {
+          "id": 802,
+          "main": "Clouds",
+          "description": "scattered clouds",
+          "icon": "03n"
+        }
+      ],
+      "clouds": { "all": 32 },
+      "wind": { "speed": 8.39, "deg": 204, "gust": 12.74 },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": { "pod": "n" },
+      "dt_txt": "2023-03-09 18:00:00"
+    },
+    {
+      "dt": 1678395600,
+      "main": {
+        "temp": 15.07,
+        "feels_like": 14.36,
+        "temp_min": 14.63,
+        "temp_max": 15.07,
+        "pressure": 1017,
+        "sea_level": 1017,
+        "grnd_level": 1012,
+        "humidity": 66,
+        "temp_kf": 0.44
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04n"
+        }
+      ],
+      "clouds": { "all": 67 },
+      "wind": { "speed": 7.61, "deg": 208, "gust": 11.28 },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": { "pod": "n" },
+      "dt_txt": "2023-03-09 21:00:00"
+    },
+    {
+      "dt": 1678406400,
+      "main": {
+        "temp": 16.27,
+        "feels_like": 15.55,
+        "temp_min": 16.27,
+        "temp_max": 16.27,
+        "pressure": 1018,
+        "sea_level": 1018,
+        "grnd_level": 1013,
+        "humidity": 61,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 804,
+          "main": "Clouds",
+          "description": "overcast clouds",
+          "icon": "04d"
+        }
+      ],
+      "clouds": { "all": 99 },
+      "wind": { "speed": 7.93, "deg": 214, "gust": 10.41 },
+      "visibility": 10000,
+      "pop": 0,
+      "sys": { "pod": "d" },
+      "dt_txt": "2023-03-10 00:00:00"
+    },
+    {
+      "dt": 1678417200,
+      "main": {
+        "temp": 18.53,
+        "feels_like": 17.48,
+        "temp_min": 18.53,
+        "temp_max": 18.53,
+        "pressure": 1018,
+        "sea_level": 1018,
+        "grnd_level": 1013,
+        "humidity": 40,
+        "temp_kf": 0
+      },
+      "weather": [
+        {
+          "id": 803,
+          "main": "Clouds",
+          "description": "broken clouds",
+          "icon": "04d"
+        }
+      ],
+      "clouds": { "all": 65 },
+      "wind": { "speed": 4.05, "deg": 327, "gust": 5.37 },
+      "visibility": 10000,
+      "pop": 0.3,
+      "sys": { "pod": "d" },
+      "dt_txt": "2023-03-10 03:00:00"
+    }
+  ],
+  "city": {
+    "id": 1850144,
+    "name": "Tokyo",
+    "coord": { "lat": 35.6895, "lon": 139.6917 },
+    "country": "JP",
+    "population": 12445327,
+    "timezone": 32400,
+    "sunrise": 1678309304,
+    "sunset": 1678351348
+  }
+}
