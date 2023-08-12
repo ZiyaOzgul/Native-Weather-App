@@ -1,6 +1,5 @@
 
 # React Havadurumu Uygulaması
-# React Native, Redux, Tailwindcss Kullanılarak Geliştirilmiştir
 
 
 
@@ -14,10 +13,7 @@
 
 ### Built With
 
-React ve TailwindCss kullanılarak yapılmıştır 
-
-* [![React][React.js]][React-url]
-* [![Bootstrap][tailwindcss.com]][Tailwindcss-url]
+# React Native, Redux, Tailwindcss Kullanılarak Geliştirilmiştir
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
